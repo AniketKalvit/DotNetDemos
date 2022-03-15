@@ -6,5 +6,9 @@ namespace BasicDemo
 {
     public class Student
     {
+        public Student()
+        {
+                
+        }
     }
 }
